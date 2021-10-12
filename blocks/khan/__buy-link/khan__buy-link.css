@@ -1,0 +1,10 @@
+.khan__buy {
+  position: absolute;
+  top: 0;
+  left: 668px;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+}
